@@ -1,3 +1,3 @@
-## Log  
+## Log
 - First commit  
 - Install  
