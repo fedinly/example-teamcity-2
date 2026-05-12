@@ -1,3 +1,3 @@
 ## Log  
-First commit  
-Install  
+- First commit  
+- Install  
