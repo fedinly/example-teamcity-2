@@ -6,7 +6,7 @@
   <param name="authMethod" value="PASSWORD" />
   <param name="branch" value="refs/heads/master" />
   <param name="ignoreKnownHosts" value="true" />
-  <param name="secure:password" value="credentialsJSON:faa698ed-3d53-4576-bd60-bccb8f289186" />
+  <param name="secure:password" value="credentialsJSON:274149f3-c8d8-4e82-bc95-7bee982046ee" />
   <param name="submoduleCheckout" value="CHECKOUT" />
   <param name="teamcity:branchSpec" value="refs/heads/*" />
   <param name="url" value="https://github.com/fedinly/example-teamcity-2.git" />
